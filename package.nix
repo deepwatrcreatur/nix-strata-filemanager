@@ -24,7 +24,7 @@
 
 rustPlatform.buildRustPackage rec {
   pname = "strata";
-  version = "0.21.1";
+  version = "1.0.0";
 
   src = ./.;
 
